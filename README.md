@@ -1,2 +1,0 @@
-# EcosystemBloom
-CIC Project
